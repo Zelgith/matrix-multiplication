@@ -1,0 +1,7 @@
+/src/matmul
+/results/
+*.csv
+/report/*.aux
+/report/*.log
+/report/*.out
+/report/*.toc
